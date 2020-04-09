@@ -1,2 +1,0 @@
-# InfiniteScrollList
-Created with CodeSandbox
